@@ -5,8 +5,6 @@ import android.telephony.TelephonyManager;
 
 /**
  * SIM卡工具类
- * @author liulu
- *
  */
 public class SMTools {
 	
