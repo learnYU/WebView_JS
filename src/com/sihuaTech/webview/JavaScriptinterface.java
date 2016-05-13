@@ -29,7 +29,7 @@ public class JavaScriptinterface {
 		}else if(string.equals("")) {
 			
 		}else if(string.equals("")){
-			
+			 
 		}
 		return "null";
 	}
